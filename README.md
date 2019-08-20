@@ -1,1 +1,2 @@
 # GroceryStore
+this program demonstrates the use of inheritance of objects as well as the cosmic classes  in java. the TestCheckout class is the main class, mainly for displaying information. the Item class is the superclass inherited by the Egg class, the Baguette class the FlavoredBaguette clas, and so on. the GroceryStore class contains static methods for mathematical computations. the Checkout class contains the list of all the Item classes. The FlavoredBaguette class is the only class that inherits from the Baguette class. 
